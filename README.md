@@ -1,4 +1,4 @@
-# ConversorDivisas-Challenge Allura
+# ConversorDivisas-Challenge Alura
 Conversor de Divisas con Exchange Rate API
 
 
