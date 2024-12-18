@@ -5,6 +5,7 @@ public class Principal {
         Scanner lectura = new Scanner(System.in);
         ConsultarMoneda consulta = new ConsultarMoneda();
 
+
         int selecion=0;
         while (selecion !=8){
             System.out.println("""
