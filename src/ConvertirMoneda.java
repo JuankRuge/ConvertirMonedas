@@ -2,7 +2,6 @@ import java.util.Scanner;
 
 public class ConvertirMoneda {
 
-
     //metodo opciones del menu estandar
     public static void convertir (String monedaBase, String monedaDestino, ConsultarMoneda consulta, Scanner lectura) {
         double cantidad;
